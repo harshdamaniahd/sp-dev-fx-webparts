@@ -2,7 +2,8 @@
 
 ## Summary
 
-Using Microsoft Graph, this webpart grabs the Office 365 groups the current user is a member of with links to the groups SharePoint site.
+Using Microsoft Graph, this webpart grabs the Office 365 groups the current user is a member of with links to the groNorway@789
+ups SharePoint site.
 
 ![Demo](./assets/example.png)
 
